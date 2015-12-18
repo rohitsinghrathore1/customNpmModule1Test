@@ -1,0 +1,19 @@
+{
+  "name": "rohit",
+  "version": "0.0.1",
+  "description": "making custom npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitsinghrathore1/customNpmModule1Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitsinghrathore1/customNpmModule1Test/issues"
+  },
+  "homepage": "https://github.com/rohitsinghrathore1/customNpmModule1Test#readme"
+}
